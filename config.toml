@@ -1,0 +1,25 @@
+baseurl = "https://www.rdonati.it/"  # Include trailing slash
+title = "Riccardo Donati"
+#theme = "newsroom"
+#author = "Weru"
+copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
+canonifyurls = true
+paginate = 5
+# Enable syntax highlighting
+# comment or delete the following lines 11 ~ 14
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses=true
+pygmentsOptions = "linenos=table"
+enableEmoji = true
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  
+# ids used below are not valid. Replace with valid ones
+[params]
+   ga_analytics = "UA-149159844-1" # google analytics ID e.g UA-116386578-1
+
+  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+  twitter = "@riky1616" # twitter handle e.g @weru
+  instagram = "@rdonati.it"

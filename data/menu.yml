@@ -1,0 +1,10 @@
+- item: About
+  url: about/
+- item: Podcast
+  url: podcast/
+- item: Blog
+  url: ""
+- item: Category
+  url: categories
+- item: Tag
+  url: tags
