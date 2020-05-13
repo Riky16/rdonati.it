@@ -195,7 +195,7 @@ Vero anche che non possiede due caratteristiche che il fratello Pro ha: **certif
 <img src="https://res.cloudinary.com/dgwzregti/image/upload/v1589213956/OnePlus8/Foto/OnePlus8_02.jpg">
 </div>
 
-Sicuramente è un buon periodo per acquistare un top di 6 mesi fa che sicuramente si è abbassato di prezzo, come il [Pixel 4 su Mobzilla](https://www.mobzilla.it/google-pixel-4-64gb-white-europa.html), oppure aspettare qualche giorno e attendere Pixel 4a. Con qiesta quantità di smartphone di qualità a basso prezzo è difficile prendere ora questo OnePlus 8, ancora più difficile per la versione Pro.
+Sicuramente è un buon periodo per acquistare un top di 6 mesi fa che sicuramente si è abbassato di prezzo, come il [Pixel 4 su Mobzilla](https://www.mobzilla.it/google-pixel-4-64gb-white-europa.html), oppure aspettare qualche giorno e attendere Pixel 4a. Con questa quantità di smartphone di qualità a basso prezzo è difficile prendere ora questo OnePlus 8, ancora più difficile per la versione Pro.
 
 **OnePlus 8 offre sicuramente tutto quello che ti puoi aspettare dal brand**, e no, non penso più che OnePlus sia uscita dai suoi canoni del *Never Settle*, ma reputo ancora la strategia di produrre 4 top di gamma l'anno **sbagliata** e spero che con un ipotetico OnePlus Z tutto ciò possa cambiare in meglio.
 
