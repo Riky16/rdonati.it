@@ -44,7 +44,7 @@ L'azienda cinese migliora sempre di più i suoi pannelli e anche quest'anno non 
 <img src="https://res.cloudinary.com/dgwzregti/image/upload/v1589213956/OnePlus8/Foto/OnePlus8_03.jpg">
 </div>
 
-Qua però casca l'asino, come direbbe Davide Puato di [Stockdroid](https://youtu.be/FHgzIv5r804), **il display è MARSO!** In poche parole **presenta una macchia verde notabile ad occhio nudo nelle ore serali all'altezza del sensore di impronte digitali.** Se da un lato il display è ottimo, dall'altro ci sono unità come la mia che rivelano questi difetti e il problema non riguarda solo OnePlus 8, ma anche Pixel 4 e diversi altri dispositivi Oled. 
+Qua però casca l'asino, come direbbe Davide Puato di [Stockdroid](https://youtu.be/FHgzIv5r804), **il display è MARSO!** In poche parole **presenta una macchia verde notabile ad occhio nudo nelle ore serali all'altezza del sensore di impronte digitali.** Se da un lato il display è ottimo, dall'altro ci sono unità come la mia che rivelano questi difetti e il problema non riguarda solo [OnePlus 8](https://amzn.to/3jz0Wcf), ma anche Pixel 4 e diversi altri dispositivi Oled. 
 Sinceramente non so di preciso a cosa sia dovuto questo problema, inizialmente si ipotizzava alla colla utilizzata, ma credo sia diverso.
 
 <div align="center">
@@ -57,7 +57,7 @@ Molti affermano che lo sblocco tramite l'impronta digitale che viene implementat
 
 # Prestazioni: il burro fatto a smartphone
 
-Non starò qui a dilungarmi troppo sulle **prestazioni di OnePlus 8**, l'azienda cinese riesce sempre a offrire un connubio perfetto, **fluido e senza impuntamenti.**
+Non starò qui a dilungarmi troppo sulle **prestazioni di [OnePlus 8](https://amzn.to/3jz0Wcf)**, l'azienda cinese riesce sempre a offrire un connubio perfetto, **fluido e senza impuntamenti.**
 
  |   
 ------------ | ------------- 
@@ -75,14 +75,14 @@ Non sono un gamer incallito su smartphone, se gioco è generalmente con qualche 
 
 # Batteria 🔋: verso l'infinito e oltre!
 
-Impressionante come OnePlus sia riuscita a migliorare moltissimo in questi anni. Da OnePlus 6 con una autonomia scarsa a **OnePlus 8 che con un display a 90 Hz e un'autonomia super ottima**, passando da un OnePlus 7 (60 Hz) con un'autonomia ottima!
+Impressionante come OnePlus sia riuscita a migliorare moltissimo in questi anni. Da OnePlus 6 con una autonomia scarsa a **[OnePlus 8](https://amzn.to/3jz0Wcf) che con un display a 90 Hz e un'autonomia super ottima**, passando da un OnePlus 7 (60 Hz) con un'autonomia ottima!
 
  | Dati 
 -------- | ------------- 
 Batteria | 4300 mAh  
 Ricarica | Warp Charge 30 W 
 
-Ho effettuato la prima ricarico di OnePlus 8 con la **Warp Charge**, sfruttando la dotazione presente nella confezione di vendita. **Dal 15% al 100% in un'ora è qualcosa di assurdo**, le tecnologie delle batterie hanno fatto un salto avanti notevole; tuttavia questa velocità porta però inevitabilmente a *scaldare la backcover del telefono*. Quando OnePlus 8 viene ricaricato senza la tecnologia proprietaria della casa cinese la ricarica avviene circa in due ore (prova effettuata con caricatore di iPad Pro). Grazie alla funzione di **ottimizzazione della ricarica** presente su questa OxygenOS 10, *lo smartphone sfrutta AI e Machine Learning per rallentare la ricarica in situazione di inutilizzo* (es. durante la notte) così da **degradare meno la batteria nel tempo**.
+Ho effettuato la prima ricarico di OnePlus 8 con la **Warp Charge**, sfruttando la dotazione presente nella confezione di vendita. **Dal 15% al 100% in un'ora è qualcosa di assurdo**, le tecnologie delle batterie hanno fatto un salto avanti notevole; tuttavia questa velocità porta però inevitabilmente a *scaldare la backcover del telefono*. Quando [OnePlus 8](https://amzn.to/3jz0Wcf) viene ricaricato senza la tecnologia proprietaria della casa cinese la ricarica avviene circa in due ore (prova effettuata con caricatore di iPad Pro). Grazie alla funzione di **ottimizzazione della ricarica** presente su questa OxygenOS 10, *lo smartphone sfrutta AI e Machine Learning per rallentare la ricarica in situazione di inutilizzo* (es. durante la notte) così da **degradare meno la batteria nel tempo**.
 
 <div align="center">
 <img src="https://res.cloudinary.com/dgwzregti/image/upload/v1589213956/OnePlus8/Foto/OnePlus8_07.jpg">
@@ -187,7 +187,7 @@ Su tutte le altre modalità, Slow- Motion, Time-Lapse ecc.., non ho nulla in par
 
 # Conclusioni
 **719€** di listino per portarsi a casa questo gioiellino. **Anche OnePlus possiamo dire che diventa un investimento**, spendere tanto adesso per avere continuità e supporto più a lungo negli anni (almeno 3 anni sono garantiti).</br>
-Come ho scritto [qua](https://www.rdonati.it/post/oneplus6_dueannidopo), **OnePlus 6 va ancora bene** dopo due anni e senza pretendere troppo un altro anno e mezzo se non addirittura due regge ancora. *Lo stesso discorso si può tranquillamente fare su questo OnePlus 8, ma in questa situazione tirare fuori 700 euro per uno smartphone non è da tutti.*
+Come ho scritto [qua](https://www.rdonati.it/post/oneplus6_dueannidopo), **OnePlus 6 va ancora bene** dopo due anni e senza pretendere troppo un altro anno e mezzo se non addirittura due regge ancora. *Lo stesso discorso si può tranquillamente fare su questo [OnePlus 8](https://amzn.to/3jz0Wcf), ma in questa situazione tirare fuori 700 euro per uno smartphone non è da tutti.*
 
 Vero anche che non possiede due caratteristiche che il fratello Pro ha: **certificazione IP68 e Ricarica Wireless**. Personalmente non sono due funzioni di cui sento la necessità e di conseguenza non ne sento la mancanza su questo OnePlus 8, ma il discorso ovviamente è diverso per ognuno.
 
@@ -195,8 +195,16 @@ Vero anche che non possiede due caratteristiche che il fratello Pro ha: **certif
 <img src="https://res.cloudinary.com/dgwzregti/image/upload/v1589213956/OnePlus8/Foto/OnePlus8_02.jpg">
 </div>
 
-Sicuramente è un buon periodo per acquistare un top di 6 mesi fa che sicuramente si è abbassato di prezzo, come il [Pixel 4 su Mobzilla](https://www.mobzilla.it/google-pixel-4-64gb-white-europa.html), oppure aspettare qualche giorno e attendere Pixel 4a. Con questa quantità di smartphone di qualità a basso prezzo è difficile prendere ora questo OnePlus 8, ancora più difficile per la versione Pro.
+Sicuramente è un buon periodo per acquistare un top di 6 mesi fa che sicuramente si è abbassato di prezzo, come il [Pixel 4 su Mobzilla](https://www.mobzilla.it/google-pixel-4-64gb-white-europa.html), oppure aspettare qualche giorno e attendere Pixel 4a. Con questa quantità di smartphone di qualità a basso prezzo è difficile prendere ora questo [OnePlus 8](https://amzn.to/3jz0Wcf), ancora più difficile per la versione Pro.
 
 **OnePlus 8 offre sicuramente tutto quello che ti puoi aspettare dal brand**, e no, non penso più che OnePlus sia uscita dai suoi canoni del *Never Settle*, ma reputo ancora la strategia di produrre 4 top di gamma l'anno **sbagliata** e spero che con un ipotetico OnePlus Z tutto ciò possa cambiare in meglio.
 
 Quindi sì, **compratelo se volete fare un investimento di 3 / 4 anni e siete sicuri che vi possa piacere**; no, non compratelo se avete anche un minimo dubbio.
+
+<div align="center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=rdonati0f-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B085YVQJKQ&linkId=4352e1b971ff095ac760cc50ad2cd46b"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=rdonati0f-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XTBQFT7&linkId=47de513dc3fb730a4cebd037bb5d686c"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=rdonati0f-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B082FNQLPV&linkId=42a9d9cdb56c8078cd040cd6afa009eb"></iframe>
+</div>

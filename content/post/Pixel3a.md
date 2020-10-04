@@ -8,7 +8,7 @@ tags: ["Google", "Pixel"]
 
 Tutto quello che ti aspetti da un **Pixel** ad un buon prezzo.
 
-**Google** ha voluto proporre una versione low cost dei suoi smartphone, inserendo componenti hardware minori ma offrendo sempre l’ottima esperienza con la **Google Camera**. Stiamo parlando della versione “a” dei Pixel: **Google Pixel 3a**, che si pone sul mercato come competitor a medio prezzo stracciando i concorrenti di quella fascia sul reparto fotografico.
+**Google** ha voluto proporre una versione low cost dei suoi smartphone, inserendo componenti hardware minori ma offrendo sempre l’ottima esperienza con la **Google Camera**. Stiamo parlando della versione “a” dei Pixel: **Google [Pixel 3a](https://amzn.to/33vaOhO)**, che si pone sul mercato come competitor a medio prezzo stracciando i concorrenti di quella fascia sul reparto fotografico.
 
 ---
 **<h2>DESIGN: retrò, ma perchè no?</h2>**
@@ -23,7 +23,7 @@ La chicca di design che è piacevole da avere è il **tasto di accensione colora
 <img src="https://res.cloudinary.com/dgwzregti/image/upload/v1569527580/Pixel3a/Pixel3a_02_kvgqqu.jpg">
 </div>
 
-Nonostante lo stile retrò, si fa l’abitudine e si apprezza comunque lo smartphone; certo che, se abituati a telefoni con display di grandi dimensioni, sarà parecchia la “perdita di informazioni” visualizzabili su Pixel 3a.
+Nonostante lo stile retrò, si fa l’abitudine e si apprezza comunque lo smartphone; certo che, se abituati a telefoni con display di grandi dimensioni, sarà parecchia la “perdita di informazioni” visualizzabili su [Pixel 3a](https://amzn.to/33vaOhO).
 
 ---
 **<h2>DISPLAY: senza pregi né difetti.</h2>**
@@ -132,10 +132,16 @@ Insomma, non avrete problemi in qualsiasi occasione scattate, sarà **il softwar
 **<h2>CONCLUSIONI: il giusto compromesso?</h2>**
 
 
-**Google Pixel 3a ha tutto ciò che si possa desiderare da uno smartphone da 400€**, tranne l’estetica che ovviamente è un parametro soggettivo e può piacere o non piacere. Non è il più bello sotto questo punto di vista, ma personalmente a me piace e non mi disturbano particolarmente le cornici esose.
+**Google [Pixel 3a](https://amzn.to/33vaOhO) ha tutto ciò che si possa desiderare da uno smartphone da 400€**, tranne l’estetica che ovviamente è un parametro soggettivo e può piacere o non piacere. Non è il più bello sotto questo punto di vista, ma personalmente a me piace e non mi disturbano particolarmente le cornici esose.
 
 <div align="center">
 <img src="https://res.cloudinary.com/dgwzregti/image/upload/v1569528651/Pixel3a/Pixel3a_07_te8d1n.jpg">
 </div>
 
 **A questo prezzo però trovare una fotocamera del genere è veramente impossibile.** C’è anche da dire però che non è da tutti utilizzare un software stock come quello dei Pixel che a lungo potrebbe stancare, soprattutto dopo aver provato le altre realtà presenti nel panorama delle personalizzazioni Android.
+
+<div align="center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=rdonati0f-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RHY1H52&linkId=f05e4d44bc801fc6eca560c796f31af1"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=rdonati0f-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07PK5LYSY&linkId=cd36a3ec366e554dbe6d88b38b88c53c"></iframe>
+</div>
